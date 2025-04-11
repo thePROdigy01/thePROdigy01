@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @thePROdigy01
-- 👀 I’m interested in python programming and other languages
-- 🌱 I’m currently learning python
+- 👀 I specialize in Python and block-based coding
+- 🌱 I’m currently learning HTML, CSS, and JS
 - 💞️ I’m looking to collaborate on some Python projects or Scratch (block-based)
 - 📫 Reach me at tanaykarn2014@gmail.com or on Discord exec_silent
 - 😄 Pronouns: he/him
