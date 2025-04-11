@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @thePROdigy01
+- 👋 Hi, I’m @thePROdigy01 AKA exec_silent on Discord and COD:M
 - 👀 I specialize in Python and block-based coding
 - 🌱 I’m currently learning HTML, CSS, and JS
 - 💞️ I’m looking to collaborate on some Python projects or Scratch (block-based)
